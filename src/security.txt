@@ -1,0 +1,6 @@
+gnome-keyring
+gnupg
+keychain
+libsecret
+lynis
+openssh

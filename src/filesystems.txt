@@ -1,0 +1,7 @@
+btrfs-progs
+exfat-utils
+fuse-common
+fuse2
+fuse3
+gvfs
+ntfs-3g

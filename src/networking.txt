@@ -1,0 +1,4 @@
+dhcpcd
+networkmanager
+wireguard-dkms
+wireguard-tools

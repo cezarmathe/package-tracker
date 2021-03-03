@@ -1,0 +1,7 @@
+base
+
+dkms
+linux-firmware
+linux-lts
+linux-lts-headers
+refind

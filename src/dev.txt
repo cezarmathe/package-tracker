@@ -1,0 +1,7 @@
+cloc
+docker
+docker-compose
+docker-machine
+gitin-bin
+go
+rustup
