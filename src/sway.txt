@@ -16,3 +16,4 @@ swaybg
 swayidle
 swaylock
 xorg-server-xwayland
+xorg-xwayland
