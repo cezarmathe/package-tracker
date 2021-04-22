@@ -1,4 +1,5 @@
 dhcpcd
+iw
+iwd
 networkmanager
-wireguard-dkms
 wireguard-tools

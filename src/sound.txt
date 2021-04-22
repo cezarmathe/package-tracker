@@ -1,4 +1,0 @@
-pamixer
-pulseaudio
-pulseaudio-alsa
-pulseaudio-equalizer

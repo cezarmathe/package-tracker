@@ -1,10 +1,5 @@
 glu
-lib32-glu
-lib32-libva-mesa-driver
-lib32-mesa
-lib32-mesa-vdpau
 libva-mesa-driver
 mesa
 mesa-vdpau
-vulkan-icd-loader
 vdpauinfo

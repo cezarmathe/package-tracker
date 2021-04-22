@@ -1,0 +1,6 @@
+grim
+slurp
+redshift-wayland-git
+wf-recorder-git
+wl-clipboard
+wofi
