@@ -5,7 +5,7 @@ all:
 .PHONY: all
 
 install_missing:
-	yay -S --needed --asexplicit - < missing.txt
+	yay -S --needed - < missing.txt
 .PHONY: install_missing
 
 mark_missing_as_explicit:
